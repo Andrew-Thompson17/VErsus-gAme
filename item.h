@@ -4,8 +4,9 @@ using namespace std;
 
 class Item{
 public:
-  string getName() { return name; }
-  void setName(string setName) { name = setName; }
+	Item();
+	string getName() { return name; }
+	void setName(string setName) { name = setName; }
 private:
-  string name;
+	string name;
 };
