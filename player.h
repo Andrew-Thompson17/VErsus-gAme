@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "item/weapon.h"
+#include "weapon.h"
 #include "enemy.h"
 using namespace std;
 

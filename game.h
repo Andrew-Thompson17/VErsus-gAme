@@ -1,5 +1,5 @@
 #include <iostream>
-#include "entity/player.h"
+#include "player.h"
 using namespace std;
 
 class Game {
